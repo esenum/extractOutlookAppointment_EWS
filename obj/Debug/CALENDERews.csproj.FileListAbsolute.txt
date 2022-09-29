@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\CALENDERews\obj\Debug\CALENDERews.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\CALENDERews\obj\Debug\CALENDERews.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\CALENDERews.exe.config
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\CALENDERews.exe
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\CALENDERews.pdb
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\HP\Desktop\CALENDERews\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\CALENDERews\obj\Debug\CALENDERews.csproj.CopyComplete
+C:\Users\HP\Desktop\CALENDERews\obj\Debug\CALENDERews.exe
+C:\Users\HP\Desktop\CALENDERews\obj\Debug\CALENDERews.pdb
+C:\Users\HP\Desktop\CALENDERews\obj\Debug\CALENDERews.csproj.AssemblyReference.cache
